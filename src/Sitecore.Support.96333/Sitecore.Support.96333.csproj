@@ -65,9 +65,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.96333.config" />
+    <Content Include="App_Config\Include\zzz\Sitecore.Support.96333.CD.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Config\Include\zzz\Sitecore.Support.96333.CM.config" />
     <None Include="packages.config" />
     <None Include="web.config" />
   </ItemGroup>
